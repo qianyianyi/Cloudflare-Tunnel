@@ -1,4 +1,4 @@
-# 🌸 椿卷ฅCF连接器一键安装脚本
+# 🌸 椿卷Cloudflare Tunnel一键安装脚本
 
 ## 🚀 简介
 
@@ -161,4 +161,4 @@ MIT License - 椿卷ฅ 版权所有
 
 ---
 
-**🌸 椿卷ฅ专业CF连接器安装系统**
+**🌸 椿卷Cloudflare Tunnel安装系统**
