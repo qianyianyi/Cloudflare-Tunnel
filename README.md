@@ -16,13 +16,13 @@
 
 ### 一键安装
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/RapheaI/Cloudflare-Tunnel/main/cf-connector-installer.sh)
+bash <(curl -s https://raw.githubusercontent.com/qianyianyi/Cloudflare-Tunnel/main/cf-connector-installer.sh)
 ```
 
 ### 手动安装
 ```bash
 # 1. 下载脚本
-curl -s -o cf-connector-installer.sh https://raw.githubusercontent.com/RapheaI/Cloudflare-Tunnel/main/cf-connector-installer.sh
+curl -s -o cf-connector-installer.sh https://raw.githubusercontent.com/qianyianyi/Cloudflare-Tunnel/main/cf-connector-installer.sh
 
 # 2. 运行安装
 chmod +x cf-connector-installer.sh
